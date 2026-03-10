@@ -24,9 +24,11 @@ the sold cars using unsupervised learning models.
 Supervised:
 - Linear Regression
 - Random Forest
+- ANN model
 
 Unsupervised:
 - KMeans Clustering
+- DBScan Clustering
 
 
 ## Results
